@@ -1,7 +1,7 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "edge-developer",
+      "docset_name": "shan-edge-developer",
       "build_source_folder": "microsoft-edge",
       "build_output_subfolder": "edge-developer",
       "locale": "en-us",
