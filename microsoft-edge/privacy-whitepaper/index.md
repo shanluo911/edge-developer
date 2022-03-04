@@ -18,6 +18,7 @@ This document provides links to navigate to Microsoft Edge settings and other pa
 
 This whitepaper focuses on the desktop version of Microsoft Edge. Parts of the document may include features or experiences that are not available for all users.  This whitepaper also discusses features and services that exist in the product today, but subject to change in the future.  Microsoft practices data collection minimization. Your data is kept for the minimum amount of time.  Retention times vary depending on the feature or service and may change over time.
 
+:::image type="content" source="media/address-bar.png" alt-text="Simple alternate text" lightbox="media/crashes.png":::
 
 <!-- ====================================================================== -->
 ## Address bar and suggestions
